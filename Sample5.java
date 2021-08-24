@@ -1,9 +1,9 @@
 package git.Practice;
 
-public class Sample3 
+public class Sample5 
 {
 public static void main(String[] args) 
 {
-System.out.println("Heheheh");	
+System.out.println("eheheheheh");	
 }
 }
